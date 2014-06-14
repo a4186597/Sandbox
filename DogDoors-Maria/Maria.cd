@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="DogDoors.Bark">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAgAAAAA=</HashCode>
+      <FileName>Bark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogDoors.BarkRecognizer">
+    <Position X="0.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAECAAAAAAAAAAAAA=</HashCode>
+      <FileName>BarkRecognizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogDoors.DogDoor">
+    <Position X="3" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEACAAQAAAIAAAAAAAAAAAAAAAAAAAAAAIAACAAQA=</HashCode>
+      <FileName>DogDoor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogDoors.DogDoorTester">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DogDoorTester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DogDoors.Remote">
+    <Position X="7" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Remote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="新細明體" Size="9" />
+</ClassDiagram>
